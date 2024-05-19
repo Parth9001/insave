@@ -246,7 +246,7 @@ class HomePage extends StatelessWidget {
               ),
             ),
           ),
-          const SizedBox(height: 7.2),
+          const SizedBox(height: 28),
           Container(
             padding: const EdgeInsets.all(16),
             width: double.infinity,
